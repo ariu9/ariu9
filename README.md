@@ -1,9 +1,5 @@
 # Ari Yu
 
-✉️ dbdkfl78@gmail.com  
-
----
-
 ## SUMMARY
 
 AI, Video Understanding, Multimodal Researcher  
